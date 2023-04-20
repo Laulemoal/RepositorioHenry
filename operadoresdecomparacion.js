@@ -18,3 +18,4 @@
 //console.log(b) //2;
 //console.log(c) //2;
 
+//console.log(16 / 2 /4)
